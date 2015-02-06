@@ -1,6 +1,6 @@
 %define name galago-daemon
 %define version 0.5.1
-%define release %mkrel 4
+%define release 5
 
 Summary: Galago desktop presence daemon
 Name: %{name}
