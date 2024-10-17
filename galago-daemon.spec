@@ -9,7 +9,7 @@ Release: %{release}
 Source0: http://www.galago-project.org/files/releases/source/galago-daemon/%{name}-%{version}.tar.bz2
 License: GPL
 Group: System/Servers
-Url: http://www.galago-project.org/
+Url: https://www.galago-project.org/
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: libgalago-devel >= 0.5.2
 
